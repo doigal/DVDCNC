@@ -3,7 +3,7 @@ The Really Small and Really Cheap CNC Machine
 
 How cheap can a CNC machine be?
 
-This is designed entirely as a cheap proof of concept and a way to learn a lot of skills on a practical project with absolute minimal financial outlay. Whilst this is probably over compicated, for me it was a good chance to learn some design, Gcode and laser cutting along the way.
+This is designed entirely as a cheap proof of concept and a way to learn a lot of skills on a practical project with absolute minimal financial outlay. Whilst this is probably over complicated, for me it was a good chance to learn some design, Gcode and laser cutting along the way.
 
 Its important to keep expectations realistic here. This is not going to move a heavy load, its not going to be super accurate and its not going to have a big working area. Its also going to be incredibly cheap, and a lot of the parts will be things that people will have lying around or be able to salvage reasonably easy.
 
@@ -11,7 +11,7 @@ At the moment its designed to be simple, but theres always the options of adding
 
 Parts used:
 -	Arduino 
--	Adafruit Mk 1 Motor Shield equivilant	
+-	Adafruit Mk 1 Motor Shield equivalent	
 -	Micro Servo for Z axis 			
 -	16x2 LCD 	
 -	Limit switches and LEDs for homing (Optional - planned for future use)	
