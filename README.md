@@ -10,16 +10,19 @@ Its important to keep expectations realistic here. This is not going to move a h
 At the moment its designed to be simple, but theres always the options of adding in endstops and changing out the pen holder for one of those laser cutters that people salvage from (yet another!) DVD drive. I don't intend to be attaching a 3D printing head or dremel type tool, as these would be too heavy to move around and/or the working area is far too small.
 
 Parts used:
-Arduino 
-Adafruit Mk 1 Motor Shield equivilant				
-Micro Servo for Z axis 				
-16x2 LCD 	
-Limit switches and LEDs for homing (Optional - planned for future use)				
-Pair of DVD drives (with stepper motors)	
-2 sheets of A4 3mm plywood for frame & pen mount - not everyone has access to a laser cutter, and thats cool! Feel free to come up with your own designs, for the frame (this was my excuse for learning laser cutting at Nottinghack!) 				
-Various mounting screws
+-	Arduino 
+-	Adafruit Mk 1 Motor Shield equivilant	
+-	Micro Servo for Z axis 			
+-	16x2 LCD 	
+-	Limit switches and LEDs for homing (Optional - planned for future use)	
+-	Pair of DVD drives (with stepper motors)	
+-	2 sheets of A4 3mm plywood for frame & pen mount - not everyone has access to a laser cutter, and thats cool! Feel free to come up with your own designs, for the frame (this was my excuse for learning laser cutting at Nottinghack!) 				
+-	Various mounting screws
+
+The code and the plans are uploaded on this Git. Note that the mounting holes worked for my drives, you might need to adjust to suit!
 
 Inspiration for this goes to: https://github.com/adidax/mini_cnc_plotter_firmware & http://www.makerblog.at/2015/02/projekt-mini-cnc-plotter-aus-alten-cddvd-laufwerken/
 
 Code to send to GCODE to the arduino: https://github.com/damellis/gctrl
+
 Inkscape to GCODE extension (requires Inkscape 0.48.5 or earlier, and document to be in PX) https://github.com/martymcguire/inkscape-unicorn
